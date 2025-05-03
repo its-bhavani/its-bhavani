@@ -7,7 +7,7 @@
 🧠 Exploring AI projects like Deepfake Detection & Nail Disease Diagnosis  
 🌐 Building full-stack apps with Flask + HTML/CSS + JS  
 📊 Interested in Machine Learning, Neural Networks, and HealthTech  
-📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/bhavaniveerabathran) • [Portfolio](https://yourportfolio.com)
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/bhavaniveerabathran) • <!-- [Portfolio](https://yourportfolio.com)-->
 
 ### 🚀 Tech Stack
 
