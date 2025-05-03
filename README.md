@@ -34,6 +34,7 @@
 ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-228B22?style=for-the-badge&logo=tree&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF1493?style=for-the-badge&logo=neural&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-9932CC?style=for-the-badge&logo=knowledgebase&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-vision%20model-blueviolet?style=for-the-badge)
 
 ---
 ### 📈 GitHub Stats
